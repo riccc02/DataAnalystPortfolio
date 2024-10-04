@@ -1,2 +1,4 @@
 # data-analyst
-Compilation of data science code in python - personal portofolio
+
+Personal Portfolio
+Compilation of data analyst code in python
